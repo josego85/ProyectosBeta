@@ -1,4 +1,7 @@
 # ProyectosBeta
+En el directorio GIS/Leaflet se encuentra lo siguiente:
+* Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).
+
 En el directorio GIS/OL3 se encuentra lo siguiente:
 * UsandoMarcadoresOL3.zip: Se utiliza OL3 (v.3.6.0) y muestra varios marcadores en un mapa. [Demo](http://proyectosbeta.net/Labs/UsandoMarcadoresOL3/fuentes/).
 * OL3VariosMarcadores.zip: Se utiliza OL3 (v.3.8.2) y muestra varios marcadores en un mapa. Es otra forma mucho mejor usando el layer vector, estilos y usando el formato GeoJSON. [Demo](http://proyectosbeta.net/Labs/OL3VariosMarcadores/fuentes/).

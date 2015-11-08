@@ -1,4 +1,7 @@
 # ProyectosBeta
+En el directorio scripts/LibreOffice se encuentra lo siguiente:
+* instalarLibreOffice5_0_3__64bits.sh: script para descargar e instalar LibreOffice 5.0.3 en Debian Jessie de 64 bits. 
+
 En el directorio GIS/Leaflet se encuentra lo siguiente:
 * Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).
 

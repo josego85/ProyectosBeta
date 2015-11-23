@@ -1,6 +1,9 @@
 # ProyectosBeta
 En el directorio scripts/LibreOffice se encuentra lo siguiente:
-* instalarLibreOffice5_0_3__64bits.sh: script para descargar e instalar LibreOffice 5.0.3 en Debian Jessie de 64 bits. 
+* instalarLibreOffice5_0_3__64bits.sh: script para descargar e instalar LibreOffice 5.0.3 en Debian Jessie de 64 bits.
+
+En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
+* limpiarMemoriaSwap.sh: script para limpiar la memoria Swap de cualquier distro GNU/Linux. Este script pasa la memoria Swap a la memoria RAM, liberanbdo por totalidad la memoria Swap.
 
 En el directorio GIS/Leaflet se encuentra lo siguiente:
 * Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).

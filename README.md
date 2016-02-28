@@ -31,3 +31,7 @@ En el directorio GIS/SHP se encuentra lo siguiente:
 En el directorio GIS/SQL se encuentra lo siguiente:
 * departamentosParaguay.sql: Es un archivo sql donde estan todos los departamentos de Paraguay. Se necesita tener una base de datos espacial (PostgreSQL/PostGIS) para poder ejecutar el script.
 * DepartamentosParaguay_MySQL5.6.zip: Son dos archivos sql donde estan todos los 17 departamentos de Paraguay. Un archivo crea la tabla de los 17 departamentos y la otra es para insertar los departamentos. Se usa MySQL 5.6 porque soporte datos geograficos. La sentencia para determinar el departamento de un punto de Paraguay es: SELECT departamento_nombre FROM departamentos WHERE ST_CONTAINS(geom, POINT(-57.03342,-23.16547));
+
+
+En el directorio textos/repositorios/debian/ se encuentra lo siguiente:
+* sources.list.debian_testing_stretch: Es un archivo donde se encuentran los repositorios de Debian Testing (Stretch) del día 29 de febrero de 2016.

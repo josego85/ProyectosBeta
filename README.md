@@ -4,6 +4,7 @@ En el directorio scripts/LibreOffice se encuentra lo siguiente:
 * instalarLibreOffice5_0_4__64bits.sh: script para descargar e instalar LibreOffice 5.0.4 en Debian Jessie de 64 bits. 
 * instalarLibreOffice_5_1_0_64bits.sh: script para descargar e instalar LibreOffice 5.1.0 en Debian Jessie de 64 bits.
 * instalarLibreOffice5.1.0_fedora23_64its.sh: script para descargar e instalar LibreOffice 5.1.0 en Fedora 23 de 64 bits.
+* instalarLibreOffice5_1_1__64bits.sh: script para descargar e instalar LibreOffice 5.1.0 en Debian Jessie de 64 bits.
 
 
 En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:

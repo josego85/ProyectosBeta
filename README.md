@@ -10,6 +10,7 @@ En el directorio scripts/LibreOffice se encuentra lo siguiente:
 En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
 * limpiarMemoriaSwap.sh: script para limpiar la memoria Swap de cualquier distro GNU/Linux. Este script pasa la memoria Swap a la memoria RAM, liberanbdo por totalidad la memoria Swap.
 * reemplazarNombreArchivo.sh: script para reemplazar nombre de archivos por un patrón específico por un carácter vació.
+* convertirShp2GeoJSON.sh: script para convertir varios archivos shp al formato GeoJSON.
 
 En el directorio GIS/Leaflet se encuentra lo siguiente:
 * Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).

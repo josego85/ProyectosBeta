@@ -14,6 +14,7 @@ En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
 
 En el directorio GIS/Leaflet se encuentra lo siguiente:
 * Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).
+* LeyendaLeaftlet: Se utiliza Leaftlet  (1.0.0-beta.2) y muestra un ejemplo de leyenda sobre los barrios de Asuncion. Utiliza datos del Direccion General de Estadisticas, Encuestas y Censos (DGEEC).
 
 En el directorio GIS/OL3 se encuentra lo siguiente:
 * UsandoMarcadoresOL3.zip: Se utiliza OL3 (v.3.6.0) y muestra varios marcadores en un mapa. [Demo](http://proyectosbeta.net/Labs/UsandoMarcadoresOL3/fuentes/).

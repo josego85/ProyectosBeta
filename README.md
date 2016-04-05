@@ -19,6 +19,7 @@ En el directorio GIS/Leaflet se encuentra lo siguiente:
 En el directorio GIS/OL3 se encuentra lo siguiente:
 * UsandoMarcadoresOL3.zip: Se utiliza OL3 (v.3.6.0) y muestra varios marcadores en un mapa. [Demo](http://proyectosbeta.net/Labs/UsandoMarcadoresOL3/fuentes/).
 * OL3VariosMarcadores.zip: Se utiliza OL3 (v.3.8.2) y muestra varios marcadores en un mapa. Es otra forma mucho mejor usando el layer vector, estilos y usando el formato GeoJSON. [Demo](http://proyectosbeta.net/Labs/OL3VariosMarcadores/fuentes/).
+* CartoDBOL3.zip: Se agrego un ejemplo de como usar OL3 y CartoDB tile source. Se usa v3.15.0. [Demo](http://proyectosbeta.net/Labs/CartoDBOL3/fuentes/).
 
 En el directorio GIS/Mapbox se encuentra lo siguiente:
 * EjemploMapbox: Utiliza la librería mapbox con un plugin de leaflet para mostrar un ejemplo de un mapa de calor. [Demo](http://proyectosbeta.net/Labs/EjemploMapbox/src/).

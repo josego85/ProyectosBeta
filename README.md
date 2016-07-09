@@ -27,7 +27,8 @@ En el directorio GIS/Mapbox se encuentra lo siguiente:
 * EjemploMapbox: Utiliza la librería mapbox con un plugin de leaflet para mostrar un ejemplo de un mapa de calor. [Demo](http://proyectosbeta.net/Labs/EjemploMapbox/src/).
 
 En el directorio GIS/OSM se encuentra lo siguiente:
-* departamentosParaguay.sh: Un script que descarga los datos OSM de Paraguay del sitio GeoFabrik y crea archivos OSM separados por cada departamento. 17 departamentos
+* departamentosParaguay.sh: Un script que descarga los datos OSM de Paraguay del sitio GeoFabrik y crea archivos OSM separados por cada departamento. 17 departamentos.
+* actualizarDatosOSM.sh:  Un script para actualizar una base de datos PostgreSQL/PostGIS con datos OSM de Paraguay. Se utilizan los datos de GeoFabrik.
 
 En el directorio GIS/SHP se encuentra lo siguiente:
 * Departamentos de Paraguay.zip: Se encuentra un archivo comprimido sobre todos los departamentos de Paraguay en un solo shp.

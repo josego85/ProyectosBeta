@@ -44,3 +44,6 @@ En el directorio GIS/SQL se encuentra lo siguiente:
 
 En el directorio textos/repositorios/debian/ se encuentra lo siguiente:
 * sources.list.debian_testing_stretch: Es un archivo donde se encuentran los repositorios de Debian Testing (Stretch) del día 29 de febrero de 2016.
+
+En el directorio codigos/Android/ se encuentra lo siguiente:
+*  	MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0

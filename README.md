@@ -1,4 +1,7 @@
 # ProyectosBeta
+En el directorio codigos/LenguajeR se encuentra lo siguiente:
+* MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R
+
 En el directorio scripts/LibreOffice se encuentra lo siguiente:
 * instalarLibreOffice5_0_3__64bits.sh: script para descargar e instalar LibreOffice 5.0.3 en Debian Jessie de 64 bits.
 * instalarLibreOffice5_0_4__64bits.sh: script para descargar e instalar LibreOffice 5.0.4 en Debian Jessie de 64 bits. 

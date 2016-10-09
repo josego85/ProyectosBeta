@@ -1,7 +1,4 @@
 # ProyectosBeta
-En el directorio codigos/LenguajeR se encuentra lo siguiente:
-* MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R
-
 En el directorio scripts/LibreOffice se encuentra lo siguiente:
 * instalarLibreOffice5_0_3__64bits.sh: script para descargar e instalar LibreOffice 5.0.3 en Debian Jessie de 64 bits.
 * instalarLibreOffice5_0_4__64bits.sh: script para descargar e instalar LibreOffice 5.0.4 en Debian Jessie de 64 bits. 
@@ -50,4 +47,7 @@ En el directorio textos/repositorios/debian/ se encuentra lo siguiente:
 * sources.list.debian_testing_stretch: Es un archivo donde se encuentran los repositorios de Debian Testing (Stretch) del día 29 de febrero de 2016.
 
 En el directorio codigos/Android/ se encuentra lo siguiente:
-*  	MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0
+*  	MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0.
+
+En el directorio codigos/LenguajeR se encuentra lo siguiente:
+* MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R

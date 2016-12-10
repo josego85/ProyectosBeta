@@ -51,4 +51,7 @@ En el directorio codigos/Android/ se encuentra lo siguiente:
 *  	MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0.
 
 En el directorio codigos/LenguajeR se encuentra lo siguiente:
-* MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R
+* MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R.
+
+En el directorio codigos/PHP se encuentra lo siguiente:
+* EjemploPDFjs.zip: ejemplo en PHP para mostrar el uso de la librería de Mozilla para mostrar PDFs en el visor sin utilizar plugins. La liberia es PDF.js

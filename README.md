@@ -48,7 +48,8 @@ En el directorio textos/repositorios/debian/ se encuentra lo siguiente:
 * sources.list.debian_testing_stretch: Es un archivo donde se encuentran los repositorios de Debian Testing (Stretch) del día 29 de febrero de 2016.
 
 En el directorio codigos/Android/ se encuentra lo siguiente:
-*  	MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0.
+* MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0.
+* ListViewEjemplo: Se agrega un ejemplo de optimizacion de ListView para Android. Ejemplo porbado en Android 6.0.1 (API 23).
 
 En el directorio codigos/LenguajeR se encuentra lo siguiente:
 * MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R.

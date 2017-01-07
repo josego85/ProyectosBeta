@@ -22,9 +22,10 @@ En el directorio GIS/Leaflet se encuentra lo siguiente:
 * LeyendaLeaftlet: Se utiliza Leaftlet  (1.0.0-beta.2) y muestra un ejemplo de leyenda sobre los barrios de Asuncion. Utiliza datos del Direccion General de Estadisticas, Encuestas y Censos (DGEEC).
 
 En el directorio GIS/OL3 se encuentra lo siguiente:
-* UsandoMarcadoresOL3.zip: Se utiliza OL3 (v.3.6.0) y muestra varios marcadores en un mapa. [Demo](http://proyectosbeta.net/Labs/UsandoMarcadoresOL3/fuentes/).
-* OL3VariosMarcadores.zip: Se utiliza OL3 (v.3.8.2) y muestra varios marcadores en un mapa. Es otra forma mucho mejor usando el layer vector, estilos y usando el formato GeoJSON. [Demo](http://proyectosbeta.net/Labs/OL3VariosMarcadores/fuentes/).
 * CartoDBOL3.zip: Se agrego un ejemplo de como usar OL3 y CartoDB tile source. Se usa v3.15.0. [Demo](http://proyectosbeta.net/Labs/CartoDBOL3/fuentes/).
+* OL3VariosMarcadores.zip: Se utiliza OL3 (v.3.8.2) y muestra varios marcadores en un mapa. Es otra forma mucho mejor usando el layer vector, estilos y usando el formato GeoJSON. [Demo](http://proyectosbeta.net/Labs/OL3VariosMarcadores/fuentes/).
+* UsandoMarcadoresOL3.zip: Se utiliza OL3 (v.3.6.0) y muestra varios marcadores en un mapa. [Demo](http://proyectosbeta.net/Labs/UsandoMarcadoresOL3/fuentes/).
+* eventoChangeLayerOL3.zip: Se utiliza OL3 (v.3.16.0) y muestra como realizar una acción al realziar una seleccion a un determinado layer usando ol.control.LayerSwitcher. [Demo](http://proyectosbeta.net/Labs/eventoChangeLayerOL3/fuentes/).
 
 En el directorio GIS/Mapbox se encuentra lo siguiente:
 * EjemploMapbox: Utiliza la librería mapbox con un plugin de leaflet para mostrar un ejemplo de un mapa de calor. [Demo](http://proyectosbeta.net/Labs/EjemploMapbox/src/).

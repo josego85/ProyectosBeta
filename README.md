@@ -10,6 +10,7 @@ En el directorio scripts/LibreOffice se encuentra lo siguiente:
 * instalarLibreOffice5_2_0__64bits.sh: script para descargar e instalar LibreOffice 5.2.0 en Ubuntu 14.04 LTS de 64 bits.
 * instalarLibreOffice5_2_2__64bits.sh: script para descargar e instalar LibreOffice 5.2.2 en Debian Jessie de 64 bits.
 * instalarLibreOffice5_2_3__64bits.sh: script para descargar e instalar LibreOffice 5.2.3 en Debian Jessie de 64 bits.
+* instalarLibreOffice5_2_5__64bits.sh: script para descargar e instalar LibreOffice 5.2.5 en Debian Jessie de 64 bits.
 
 En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
 * limpiarMemoriaSwap.sh: script para limpiar la memoria Swap de cualquier distro GNU/Linux. Este script pasa la memoria Swap a la memoria RAM, liberanbdo por totalidad la memoria Swap.

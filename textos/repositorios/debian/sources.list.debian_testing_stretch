@@ -12,6 +12,6 @@ deb-src http://ftp.de.debian.org/debian/ stretch-updates main non-free contrib
 deb http://mirrors.kernel.org/debian stretch-proposed-updates main contrib non-free
 deb-src http://mirrors.kernel.org/debian stretch-proposed-updates main contrib non-free
 
-# sudo apt-key adv --keyserver pgp.mit.edu --recv-keys 5C808C2B65558117
+# Descargar este paquete https://deb-multimedia.org/pool/main/d/deb-multimedia-keyring/deb-multimedia-keyring_2016.8.1_all.deb y luego instalar. sudo dpkg -i deb-multimedia-keyring_2016.8.1_all.deb
 deb http://www.deb-multimedia.org stretch main non-free
 deb-src http://www.deb-multimedia.org/ stretch main non-free

@@ -59,6 +59,9 @@ En el directorio codigos/Android/ se encuentra lo siguiente:
 * MapaOSM.zip: Código de ejemplo de un mapa OSM usando la librería osmdroid. Fue probado en un Samsung S5 con Android 6.0.
 * ListViewEjemplo: Se agrega un ejemplo de optimizacion de ListView para Android. Ejemplo porbado en Android 6.0.1 (API 23).
 
+En el directorio codigos/HTML/ se encuentra lo siguiente:
+* pruebaModExpires.zip: Código de ejemplo para mostrar como funciona el módulo expires de Apache en Debian Jessie de 64 bits.
+
 En el directorio codigos/LenguajeR se encuentra lo siguiente:
 * MapaLeaflet.r: ejemplo de un mapa usando Leaflet con el lenguaje R.
 

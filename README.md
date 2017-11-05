@@ -25,6 +25,7 @@ En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
 * limpiezaPaquetesDeb.sh: script para limpiar de forma automática paquetes de apt-get o aptitude. 
 * backups_todas_bds_mysql.sh: script que hace backups de todas las base de datos MySQL 5.7. Crea un MD5 y SHA256 por cada base de datos, como tambien cimprime usando 7zip.
 * descargar_paquetes_ubuntu_zesty_zapus__17_04.sh: script para descargar varios paquetes en Ubuntu Desktop Zesty Zapus 17.04
+* ping.sh: script que realiza un ping a proyectosbeta.net utilizando un sintetizador de voz llamado festival. Se utiliza Linux Mint 18.2 Sonya de 64 bits, pero debería de funcionar en cualquier distro basada en Debian.
 
 En el directorio GIS/Leaflet se encuentra lo siguiente:
 * Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).

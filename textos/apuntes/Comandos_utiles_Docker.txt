@@ -1,0 +1,31 @@
+Comandos útiles Docker
+- docker info: información de instalación de nuestro Docker.
+- docker version: se obtiene la versión del cliente y del servidor.
+- docker images: obtenemos todas las imágenes que tenemos instaladas.
+- docker images --help: obtenemos ayuda con respecto a images.
+- docker images -q: solo muestra el id de las imágenes.
+- docker search ubuntu: buscamos imágenes de hub.docker.com de Ubuntu.
+- docker search ubuntu:trusty-20180123 buscamos imágenes de hub.docker.com de Ubuntu con el tag trusty-20180123.
+- docker pull ubuntu: descargamos la imagen ubuntu.
+- docker pull ubuntu:trusty-20180123: descargamos la imagen ubuntu con el tag trusty-20180123.
+- docker ps: para identificar los contenedores en ejecución.
+- docker ps -a: para identificar los contenedores que se crearon y sus estados.
+- docker ps -s: para identificar el tamaño de los contenedores.
+- docker rm a5: borra un contenedor específico. Ejemplo se borra el contenedor a5.
+- docker run ubuntu ls: crear contenedor pasandole parámetros. Ejemplo se crea un contenedor de ubuntu listando la raíz.
+- docker run -i -t ubuntu bash: contenedor ubuntu que se ejecuta continuamente y nos permite interactuar con la terminal.
+- docker run --name ubuntu_pruebas -it ubuntu bash: se crea un contenedor llamado ubuntu_pruebas y nos permite interactuar con la terminal.
+- docker start 4198141ad4e0: ejecuta el contenedor 4198141ad4e0.
+- docker stop 4198141ad4e0: detenemos el contenedor 4198141ad4e0.
+- docker attach 4198141ad4e0: nos conectamos al contenedor 4198141ad4e0.
+- docker commit a40cfb0c2ace ubuntu_htop: genera una imagen llamada ubuntu_htop a partir del contenedora40cfb0c2ace.
+- docker commit --change='CMD ["apache2ctl", "-D FOREGROUND"]' -c "EXPOSE 85" 24aa809c879a ubuntu_apache2: genera una imagen llamada ubuntu_apache2 pero solo ejecuta apache2 al iniciar por el puerto 85 y no se puede interactuar con el.
+- docker run -d -p 5000:80 ubuntu_apache2: se crea un nuevo contenedor.
+- docker build -t miweb /home/proyectosbeta/Escritorio/: se genera una imagen a partir de un Dockerfile.
+
+Obs:
+- Para salir de un contenedor, pero sin pararlo, debemos de presionar control + p + q.
+
+Links interesantes de docker:
+- https://get.docker.com/: obtenemos un script de instalación de Docker.
+- https://hub.docker.com/: obtenemos imágenes ya creadas por la comunidad.

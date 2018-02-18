@@ -12,6 +12,9 @@
 # Obs:
 # - La descarga lo hace en el home del usuario actual y en la carpeta Descargas.
 
+# Paquetes a instalar:
+# - sudo apt-get install python-bs4
+#
 # Modo de uso:
 # sudo python update_atom.py 
 #######################################################################################

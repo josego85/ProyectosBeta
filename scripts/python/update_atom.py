@@ -4,16 +4,19 @@
 # Autor: josego
 # Blog: proyectosbeta.net
 # Fecha creacion: 	15 de febrero de 2018 a las 21:09 hs.
-# Fecha modificacion:	---------------------
+# Fecha modificacion:	29 de abril de 2018 a las 04:54 hs.
 # Script original: https://gist.github.com/DusanMadar/8f094ef647a0ad54cff1
 # 
 # Descarga la ultima version del edito atom y luego lo instala.
 #
 # Obs:
+# - Se asume que se tiene Atom instalado para luego usar el script de actualizacion. 
 # - La descarga lo hace en el home del usuario actual y en la carpeta Descargas.
+# - Funciona para Ubuntu 16.04 LTS y Ubuntu 18.04 LTS.
 
 # Paquetes a instalar:
-# - sudo apt-get install python-bs4
+# - sudo apt-get install python-bs4 python-pip
+# - sudo pip install requests
 #
 # Modo de uso:
 # sudo python update_atom.py 

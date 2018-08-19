@@ -80,3 +80,6 @@ En el directorio codigos/LenguajeR se encuentra lo siguiente:
 
 En el directorio codigos/PHP se encuentra lo siguiente:
 * EjemploPDFjs.zip: ejemplo en PHP para mostrar el uso de la librería de Mozilla para mostrar PDFs en el visor sin utilizar plugins. La liberia es PDF.js
+
+En el directorio codigos/Python/OpenCV/Ejemplo1 se encuentra lo siguiente:
+* sacarRuidoImagen.py: ejemplo en Python3 con OpenCV para sacar el ruido de la imagen.

@@ -87,3 +87,6 @@ En el directorio codigos/Python/OpenCV/Ejemplo1 se encuentra lo siguiente:
 
 En el directorio codigos/Python/QGIS/ se encuentra lo siguiente:
 * Ejemplo1.py: ejemplo en Python para QGIS cargando un shp y agregando etiqueta de nombre de los departamentos de Paraguay.
+
+En el directorio codigos/Python/WebScrapping/ se encuentra lo siguiente:
+* Tecnolandia.py: Web scrapping de productos destacados - Tecnolandia.

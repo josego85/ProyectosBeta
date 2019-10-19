@@ -35,6 +35,12 @@ En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
 En el directorio scripts/python/ se encuentra lo siguiente:
 * update_atom.py: script hecho en python para actualizar el editor Atom en nuestro Ubuntu o derivados de Debian.
 
+En el directorio GIS/GeoJSON/ se encuentra lo siguiente:
+* InternetGratuito.geojson: GeoJSON de acceso a Internet gratuito de los datos abiertos.
+* establecimientos.geojson: GeoJSON de los establecimientos de salud.
+* estaciones.geojson: GeoJSON de estaciones de servicio del MIC Paraguay [Link](http://gis.mic.gov.py/features/estaciones/
+).
+
 En el directorio GIS/Leaflet se encuentra lo siguiente:
 * Leaflet_wikimediamaps.zip: Se utiliza Leftlet (0.75) y muestra el mapa de la wikimedia. [Demo](http://proyectosbeta.net/Labs/Leaflet_wikimediamaps/src/).
 * LeyendaLeaftlet: Se utiliza Leaftlet  (1.0.0-beta.2) y muestra un ejemplo de leyenda sobre los barrios de Asuncion. Utiliza datos del Direccion General de Estadisticas, Encuestas y Censos (DGEEC).

@@ -4,3 +4,7 @@ Recursos creación primer mapa
 Desarrollo:
 - Librería de mapas: Leaflet (https://leafletjs.com/)
 - Lenguajes de programacion: HTML, CSS y JavaScript
+
+Coordenadas Encarnación
+var longitud = -55.8666687;
+var latitud = -27.3305607;

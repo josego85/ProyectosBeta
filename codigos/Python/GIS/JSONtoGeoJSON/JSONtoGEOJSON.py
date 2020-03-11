@@ -19,7 +19,7 @@ geojson = {
 	"properties": { 
 	    key: value 
             for key, value in d.items()
-            	if key not in ('lon','lat','foto','audio_guarani','audio_espanol','tipo_sede','nombre_circunscripcion','nombre_localidad','codigo_sede','codigo_localidad','clase_sede','numero_circunscripcion') 
+            	if key not in ('lon','lat','foto','audio_guarani','audio_espanol','tipo_sede','nombre_circunscripcion','nombre_localidad','codigo_sede','codigo_localidad','numero_circunscripcion') 
 	}
      } for d in data]
 }

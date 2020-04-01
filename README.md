@@ -39,8 +39,10 @@ En el directorio scripts/python/ se encuentra lo siguiente:
 * update_atom.py: script hecho en python para actualizar el editor Atom en nuestro Ubuntu o derivados de Debian.
 
 En el directorio GIS/GeoJSON/ se encuentra lo siguiente:
+* Barrios.geojson: GeoJSON de todos los barrios de Paraguay.
 * Ciudades.geojson: GeoJSON de todas las ciudades de Paraguay.
 * Departamentos.geojson: GeoJSON de los departamentos de Paraguay.
+* Distritos.geojson: GeoJSON de todos los distritos de Paraguay.
 * InternetGratuito.geojson: GeoJSON de acceso a Internet gratuito de los datos abiertos.
 * Juzgados.geojson: GeoJSON de todos los juzgados de Paraguay (Juzgados de Paz, Juzgados de primera instancia, etc.)
 * establecimientos.geojson: GeoJSON de los establecimientos de salud.

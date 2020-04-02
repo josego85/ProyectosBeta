@@ -72,13 +72,14 @@ En el directorio GIS/SHP se encuentra lo siguiente:
 * Shp Asuncion.zip: Se encuentra un archivo comprimido para obtener el poligono de Asunci%oacute;n (Capital de Paraguay). Se usan dos poligonos de dos Departamentos que estan alrededor de Asunci&oacute;n. Luego dos shps mas para determinar Asunci&oacute;n.
 * BarriosAsuncion.zip: Todos los barrios de Asunción. Los datos originales son de la Dirección General de Estadísticas, Encuestas y Censos (DGEEC) http://datos.gov.py/organization/direccion-general-de-estadisticas-encuestas-y-censos-dgeec
 
-En el directorio GIS/SQL se encuentra lo siguiente:
+En el directorio GIS/SQL/MySQL se encuentra lo siguiente:
+* coordenadas.sql: Es un archivo sql donde estan una tabla coordenadas para la latitud y longitud.
 * departamentosParaguay.sql: Es un archivo sql donde estan todos los departamentos de Paraguay. Se necesita tener una base de datos espacial (PostgreSQL/PostGIS) para poder ejecutar el script.
 * DepartamentosParaguay_MySQL5.6.zip: Son dos archivos sql donde estan todos los 17 departamentos de Paraguay. Un archivo crea la tabla de los 17 departamentos y la otra es para insertar los departamentos. Se usa MySQL 5.6 porque soporte datos geograficos. La sentencia para determinar el departamento de un punto de Paraguay es: SELECT departamento_nombre FROM departamentos WHERE ST_CONTAINS(geom, POINT(-57.03342,-23.16547));
 
 En el directorio GIS/SQL/PostgreSQL se encuentra lo siguiente:
 * estaciones_de_servicios.pgsql: Es un archivo sql PostgreSQL/PostGIS sobre estaciones de sercivio del MIC Paraguay.
-
+* paraguay.sql.tar.gz: Es un archivo sql PostgreSQL/PostGIS sobre los barrios, distritos, ciudades y departamentos de Paraguay.
 
 En el directorio textos/apuntes/ se encuentra lo siguiente:
 * Comandos_utiles_Docker.txt: es un archivo donde se encuentran comando útiles sobre Docker.

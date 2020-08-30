@@ -1,19 +1,24 @@
 #!/bin/bash
 ##############################################################################
 # Sitio web: proyectosbeta.net
-# Autor: Jose Alberto González von Schmeling
-# Fecha: 10 de julio de 2015 a las 15:17
-# Version: 0.1
+# Autor: José Alberto González von Schmeling
+# Fecha creación: 10 de julio de 2015 a las 15:17 hs
+# Fecha actualización: 30 de agosto de 2020 a las 13:21 hs
+# Version: 0.1.1
 #
 # Programas necesarios:
 # - wget
 # - unzip
 # - osmosis 0.43.1
 #
-# Este script descarga del sitio GeoFabrik los datos OSM de Paraguay, luego
+# OBS:
+# * Este script debe de estar en la ruta /home/tuUsuario/Paraguay y
+# darle permisos de ejecución. chmod +x departamentosParaguay.sh
+# * Este script descarga del sitio GeoFabrik los datos OSM de Paraguay, luego
 # crea 17 archviso OSM de los departamentos de Paraguay.
-# Dentro de la carpeta OSM se encuentran los archivos OSM
-# La ruta seria /home/tuUsuario/Paraguay/OSM
+#   Dentro de la carpeta OSM se encuentran los archivos OSM. La ruta sería
+#   /home/tuUsuario/Paraguay/OSM
+# * PAra ejecutar el script: ./departamentosParaguay.sh
 ##############################################################################
 # Variables.
 archivoParaguayOSM=paraguay-latest.osm.pbf

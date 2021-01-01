@@ -35,6 +35,9 @@ En el directorio scripts/GNU_Linux/bash/ se encuentra lo siguiente:
 * ping.sh: script que realiza un ping a proyectosbeta.net utilizando un sintetizador de voz llamado festival. Se utiliza Linux Mint 18.2 Sonya de 64 bits, pero debería de funcionar en cualquier distro basada en Debian.
 * restaurar_ldap.sh: script que realiza una restauracion de una base de datos LDAP en GNU/Linux.
 
+En el directorio scripts/GNU_Linux/bash/raspberryPI/vesion4 se encuentra lo siguiente:
+* temp.sh: muestra la temperatura de la cpu, gpu y demas datos importates de un dispositivo Raspberry PI 4.
+
 En el directorio scripts/python/ se encuentra lo siguiente:
 * update_atom.py: script hecho en python para actualizar el editor Atom en nuestro Ubuntu o derivados de Debian.
 

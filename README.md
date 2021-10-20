@@ -1,5 +1,8 @@
 # ProyectosBeta
 En el directorio Archivos/Encuestas se encuentra lo siguiente:
+* vacunadospy_covid19.tar.lzma: base de datos de los vacunados en Paraguay por Covid19 del sitio oficial del gobierno paraguayo [https://www.vacunate.gov.py/index-listado-vacunados.html]. Fecha 18 de octubre 2021.
+
+En el directorio datos/mysql se encuentra lo siguiente:
 * Respuestas-Encuesta_OS_Paraguay.zip: resultados de la encuesta realizada por Jazmin Villagra sobre el open source para el VTECH Hacktoberfest 2019.
 
 En el directorio scripts/LibreOffice se encuentra lo siguiente:

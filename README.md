@@ -76,7 +76,7 @@ En el directorio GIS/SHP se encuentra lo siguiente:
 * Departamentos de Paraguay.zip: Se encuentra un archivo comprimido sobre todos los departamentos de Paraguay en un solo shp.
 * Asuncion.zip: Se encuentra un archivo comprimido sobre Asunci%oacute;n (Capital de Paraguay).
 * Shp Asuncion.zip: Se encuentra un archivo comprimido para obtener el poligono de Asunci%oacute;n (Capital de Paraguay). Se usan dos poligonos de dos Departamentos que estan alrededor de Asunci&oacute;n. Luego dos shps mas para determinar Asunci&oacute;n.
-* BarriosAsuncion.zip: Todos los barrios de Asunción. Los datos originales son de la Dirección General de Estadísticas, Encuestas y Censos (DGEEC) http://datos.gov.py/organization/direccion-general-de-estadisticas-encuestas-y-censos-dgeec
+* BarriosAsuncion.zip: Todos los barrios de Asunción. Los datos originales son de la Dirección General de Estadísticas, Encuestas y Censos (DGEEC) [Link](http://datos.gov.py/organization/direccion-general-de-estadisticas-encuestas-y-censos-dgeec)
 
 En el directorio GIS/SQL/MySQL se encuentra lo siguiente:
 * coordenadas.sql: Es un archivo sql donde estan una tabla coordenadas para la latitud y longitud.

@@ -51,6 +51,7 @@ En el directorio GIS/GeoJSON/ se encuentra lo siguiente:
 * Distritos.geojson: GeoJSON de todos los distritos de Paraguay.
 * InternetGratuito.geojson: GeoJSON de acceso a Internet gratuito de los datos abiertos.
 * Juzgados.geojson: GeoJSON de todos los juzgados de Paraguay (Juzgados de Paz, Juzgados de primera instancia, etc.)
+* RutasNacionales.geojson: GeoJSON de todas las rutas nacionales de Paraguay.
 * establecimientos.geojson: GeoJSON de los establecimientos de salud.
 * estaciones.geojson: GeoJSON de estaciones de servicio del MIC Paraguay [Link](http://gis.mic.gov.py/features/estaciones/
 ).
